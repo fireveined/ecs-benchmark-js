@@ -23,3 +23,9 @@ Each scenario operates on 4000 entities, 4 components and 3 systems.
 | Scenario 2 |     **27ms**   | 142ms | 98ms | 109ms
 | Scenario 3 |     **23ms**   | 184ms | 80ms | 79ms
 
+## How to run
+
+Clone and: 
+`npm i && npm start`
+
+If you have idea for new framework to add feel free to create issue.
