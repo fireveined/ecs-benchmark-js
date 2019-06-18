@@ -1,0 +1,22 @@
+{
+  "name": "ecs-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node build/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.0.8",
+    "benchmark": "^2.1.4",
+    "ecsjs": "^0.15.1",
+    "makr": "^2.1.1",
+    "perform-ecs": "^0.7.8",
+    "tiny-ecs": "^2.0.0",
+    "yagl-ecs": "^1.1.0"
+  },
+  "devDependencies": {}
+}
