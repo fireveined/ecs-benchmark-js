@@ -23,6 +23,8 @@ Each scenario operates on 4000 entities, 4 components and 3 systems.
 | Scenario 2 |     **27ms**   | 142ms | 98ms | 109ms
 | Scenario 3 |     **23ms**   | 184ms | 80ms | 79ms
 
+In all scenarios perform-ecs is the fastest framework.
+
 ## How to run
 
 Clone and: 
